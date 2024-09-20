@@ -1,7 +1,6 @@
 ## Hi，I'm Lucas.👋
 Welcom to my GitHub profile!
 
-![Profile Image]("C:\Users\86153\Desktop\E579DD2264C50999B516671892390C84.jpg")
 
 <!--
 **Luqianyiii/Luqianyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
