@@ -1,5 +1,5 @@
 ## Hi，I'm Lucas.👋
-Welcom to my GitHUb profile!
+Welcom to my GitHub profile!
 
 <!--
 **Luqianyiii/Luqianyiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
